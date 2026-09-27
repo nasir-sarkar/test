@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile.png" alt="Nasir Sarkar dev fetch card" width="900" />
+  <img src="profile.jpg" alt="Nasir Sarkar dev fetch card" width="900" />
 </p>
 
 ###
